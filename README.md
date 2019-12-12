@@ -1,6 +1,6 @@
 # recipe-app-api ![travis](https://travis-ci.org/KruizerChick/recipe-app-api.svg?branch=master)
 
-Source code for the recipe application built in Udemy's **[Build a Backend REST API with Python and Django - Advanced](https://www.udemy.com/course/django-python-advanced/learn/lecture/12896152#questions/6050148)** class.
+Source code for the recipe application built in the **[Build a Backend REST API with Python and Django - Advanced](https://www.udemy.com/course/django-python-advanced/learn/lecture/12896152#questions/6050148)** course on Udemy.
 
 ---
 
